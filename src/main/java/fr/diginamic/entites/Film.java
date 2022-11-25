@@ -153,19 +153,25 @@ public class Film {
 		this.idImdb = idImdb;
 	}
 
-	/**Getter pour l'attribut nom
-	 * @return  nom
+
+
+	/**
+	 * @return the nom
 	 */
 	public String getNom() {
 		return nom;
 	}
 
-	/**Setter pour l'attribut nom
-	 * @param set nom
+
+
+	/**
+	 * @param nom the nom to set
 	 */
 	public void setNom(String nom) {
 		this.nom = nom;
 	}
+
+
 
 	/**Getter pour l'attribut url
 	 * @return  url

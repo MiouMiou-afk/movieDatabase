@@ -57,7 +57,7 @@ public class RoleDto {
 	/**
 	 * Setter pour l'attribut film
 	 * 
-	 * @param set film
+	 * @param  film
 	 */
 	public void setFilm(String film) {
 		this.film = film;
@@ -75,7 +75,7 @@ public class RoleDto {
 	/**
 	 * Setter pour l'attribut acteur
 	 * 
-	 * @param set acteur 
+	 * @param  acteur 
 	 */
 	public void setActeur(ActeurDto acteur) {
 		this.acteur = acteur;
@@ -93,7 +93,7 @@ public class RoleDto {
 	/**
 	 * Setter pour l'attribut url
 	 * 
-	 * @param set url
+	 * @param  url
 	 */
 	public void setUrl(String url) {
 		this.url = url;
@@ -111,7 +111,7 @@ public class RoleDto {
 	/**
 	 * Setter pour l'attribut height
 	 * 
-	 * @param set height
+	 * @param height
 	 */
 	public void setHeight(String height) {
 		this.height = height;
